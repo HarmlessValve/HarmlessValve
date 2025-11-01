@@ -10,11 +10,11 @@ Hi, my name is Taja Trang Alta Gemilang<br>Information Technology student in jem
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarmlessValve&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HarmlessValve&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarmlessValve&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=impact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarmlessValve&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarmlessValve&theme=swift&no-frame=false&no-bg=true&margin-w=4)
-#aku cuman nambahin ini
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarmlessValve&limit=5&theme=swift&combine_all_yearly_contributions=true)
