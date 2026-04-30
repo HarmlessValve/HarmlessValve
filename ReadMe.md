@@ -14,4 +14,8 @@
 </p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=HarmlessValve&color=008080)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=HarmlessValve&color=008080" alt="Visitor Count" />
+  </a>
+</p>
