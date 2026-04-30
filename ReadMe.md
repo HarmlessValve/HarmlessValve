@@ -10,9 +10,9 @@
 <br>
 <img height="195px" src="https://leetcard.jacoblin.cool/HarmlessValve?theme=dark&font=NTR&ext=heatmap" />
 <br>
-<img height="195px" src="https://github-readme-stats.shion.dev/api?username=HarmlessValve&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="195px" witdh="500px" src="https://github-readme-stats.shion.dev/api?username=HarmlessValve&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <br>
-<img height="195px" src="https://streak-stats.demolab.com/?user=HarmlessValve&theme=dark&hide_border=false" />
+<img height="195px" witdh="500px" src="https://streak-stats.demolab.com/?user=HarmlessValve&theme=dark&hide_border=false" />
 
 ---
 
